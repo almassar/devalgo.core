@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Modules\Repositories;
+namespace Devalgo\Repository;
 
 use Illuminate\Container\Container as App;
 use Illuminate\Database\Eloquent\Model;

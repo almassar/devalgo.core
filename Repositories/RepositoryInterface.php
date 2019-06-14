@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Modules\Repositories;
+namespace Devalgo\Repository;
 
 interface RepositoryInterface
 {
