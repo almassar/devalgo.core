@@ -1,0 +1,16 @@
+{
+    "name": "devalgo/core",
+    "description": "Base classes for working with the application",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Almas",
+            "email": "almassar@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1"
+    }
+}
