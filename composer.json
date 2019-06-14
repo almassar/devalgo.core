@@ -1,5 +1,6 @@
 {
     "name": "devalgo/core",
+    "version": "0.1",
     "description": "Base classes for working with the application",
     "type": "library",
     "license": "MIT",
